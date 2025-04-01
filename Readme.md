@@ -22,8 +22,8 @@ A powerful Python script powered by `yt-dlp` that enables you to download YouTub
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone <repo-link>
-cd <repo-folder>
+git clone <https://github.com/TheodoreAsher/YoutubeDownloader.git>
+cd <YoutubeDownloader>
 ```
 
 ### 2️⃣ Create a Virtual Environment (Recommended)
@@ -67,7 +67,7 @@ python script.py
 ## 👥 Connect with Me
 If you found this script helpful, follow me on:
 
-- **[LinkedIn](#)** 👨‍💼
-- **[GitHub](#)** 📚
+- **[LinkedIn](https://www.linkedin.com/in/muhammad-ahsan-171519229/)** 👨‍💼
+- **[GitHub](https://github.com/TheodoreAsher)** 📚
 
 Happy downloading! 🚀
